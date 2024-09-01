@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "path": "/new-fragment-01",
+    "sections": [
+      {
+        "id": "1-1",
+        "blocks": [],
+        "settings": {}
+      },
+      {
+        "id": "1-2",
+        "blocks": [],
+        "settings": {}
+      }
+    ]
+  }
+]
